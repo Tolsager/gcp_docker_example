@@ -1,2 +1,3 @@
 This is new text just so that I can make a new commit
 Just a new line so that I can push again
+Another line
